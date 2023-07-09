@@ -1,0 +1,4 @@
+data/* filter=lfs diff=lfs merge=lfs -text
+data/Admin_Express_3.2/* filter=lfs diff=lfs merge=lfs -text
+data/Landsat/* filter=lfs diff=lfs merge=lfs -text
+data/QPV/* filter=lfs diff=lfs merge=lfs -text
